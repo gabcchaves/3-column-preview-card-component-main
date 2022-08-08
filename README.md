@@ -17,8 +17,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [](https://github.com/gabcchaves/3-column-preview-card-component-main)
-- Live Site URL: [](https://gabcchaves.github.io/3-column-preview-card-component-main)
+- Solution URL: [GitHub](https://github.com/gabcchaves/3-column-preview-card-component-main)
+- Live Site URL: [Site](https://gabcchaves.github.io/3-column-preview-card-component-main)
 
 ### Built with
 
